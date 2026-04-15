@@ -80,7 +80,7 @@ function Expenses() {
                     <td className='text-gray-400'>{item.trip}</td>
                     <td className='text-gray-400'>{item.user}</td>
                     <td>
-                      <span className={`text-[10px] px-[5px] text-center rounded-full 
+                      <span className={`text-[12px] px-[5px] text-center rounded-full 
                         ${item.category === "Accommodation" && "text-gray-600 bg-gray-100 border border-gray-300"}
                         ${item.category === "Transport" && "text-blue-500 bg-blue-100 border border-blue-300"}
                         ${item.category === "Food" && "text-green-600 bg-green-100 border border-green-300"}

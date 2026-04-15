@@ -85,7 +85,7 @@ function Groups() {
                     <td className='text-[#4e4d4d]'>{item.trips}</td>
                     <td className='text-gray-400'>{item.created}</td>
                     <td>
-                      <span className={`text-[10px] px-[5px] text-center rounded-full 
+                      <span className={`text-[12px] px-[5px] text-center rounded-full 
                         ${item.status === "active" && "text-green-600 bg-green-100 border border-green-300"}
                         ${item.status === "inactive" && "text-gray-500 bg-gray-100 border border-gray-300"}
                         
