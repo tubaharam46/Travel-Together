@@ -119,7 +119,7 @@ const tagStyle = {
                 <div>
                   <Icon className='bg-[#093056]/10 text-[#093056]/80 p-[10px] w-[43px] h-[43px] rounded-[20%]'/>
                 </div>
-            </div>
+              </div>
             );
           })}
           
@@ -184,8 +184,7 @@ const tagStyle = {
             }
           </div>
         </div>
-      </div>
-      
+      </div>      
     </div>
   )
 }
