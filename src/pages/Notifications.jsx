@@ -59,8 +59,8 @@ function Notifications() {
       <AdminHeader/>
       <div className='mt-[55px] px-[20px] flex flex-col gap-[30px]'>
         <div className='flex pt-[30px] items-center gap-[10px]'>
-          <IoIosNotificationsOutline className='bg-[#093056]/10 text-[#093056]/80 p-[5px] w-[45px] h-[45px] rounded-[25%]'/>
-          <p className='font-semibold text-2xl'>Notifications</p>
+          <IoIosNotificationsOutline className='bg-[#093056]/10 text-[#093056]/80 p-[10px] w-[45px] h-[45px] rounded-[25%]'/>
+          <h1 className='font-semibold text-2xl'>Notifications</h1>
         </div>
         <div className='flex flex-col gap-[10px]'>
           {
