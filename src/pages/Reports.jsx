@@ -35,7 +35,7 @@ function Reports() {
       <AdminHeader/>
       <div className='mt-[55px] px-[20px] flex flex-col gap-[30px]'>
         <div className='flex pt-[30px] items-center gap-[10px]'>
-          <FaRegChartBar className='bg-[#093056]/10 text-[#093056]/80 p-[10px] w-[45px] h-[45px] rounded-[25%]'/>
+          <FaRegChartBar className='bg-[#093056]/10 text-[#093056]/80 p-[10px] w-[42px] h-[42px] rounded-[25%]'/>
           <h1 className='font-semibold text-2xl'>Reports</h1>
         </div>
         <div className='grid grid-cols-2 gap-[20px]'>
